@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CustomTabApp</string>
+
+    <string-array name="custom_tabs">
+        <item>New Loan Application</item>
+        <item>How It Works</item>
+        <item>FAQ’s</item>
+        <item>Status Tracking</item>
+    </string-array>
+</resources>
